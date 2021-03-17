@@ -15,3 +15,8 @@ Repositório criado para realização de atividades práticas desta disciplina.
 - Estruturas e enumerações [clique aqui](src/aula15_16)
 
 ## Lista de atividades práticas
+
+- Prática 1 [clique aqui](test/pratica01)
+- Prática 2 [clique aqui](test/pratica02)
+- Prática 3 [clique aqui](test/pratica03)
+- Prática 4 [clique aqui](test/pratica04)
