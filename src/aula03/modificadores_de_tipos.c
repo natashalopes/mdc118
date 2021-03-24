@@ -14,7 +14,7 @@ int main()
 {
     printf("signed char ocupa %lu byte e aceita valores entre %d e %d\n", sizeof(signed char), SCHAR_MIN, SCHAR_MAX);
     printf("unsigned char ocupa %lu byte e aceita valores entre %d e %d\n", sizeof(unsigned char), 0, UCHAR_MAX);
-    printf("signed short int ocupa %lu bytes e aceita valores entre %d e %d\n", sizeof(signed short int), SHRT_MIN, SHRT_MIN);
+    printf("signed short int ocupa %lu bytes e aceita valores entre %d e %d\n", sizeof(signed short int), SHRT_MIN, SHRT_MAX);
     printf("unsigned short int ocupa %lu bytes e aceita valores entre %d e %d\n", sizeof(unsigned short int), 0, USHRT_MAX);
     printf("signed int ocupa %lu bytes e aceita valores entre %d e %d\n", sizeof(signed int), INT_MIN, INT_MAX);
     printf("unsigned int ocupa %lu bytes e aceita valores entre %d e %u\n", sizeof(unsigned int), 0, UINT_MAX);
